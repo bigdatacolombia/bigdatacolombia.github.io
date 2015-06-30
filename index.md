@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Eventos"
+title: "Big Data Colombia - Comunidad de Big Data y Data Science en Colombia"
 teaser: "Eventos de Big Data Colombia"
 image:
    header: "unsplash_6_bus_header.jpg"
