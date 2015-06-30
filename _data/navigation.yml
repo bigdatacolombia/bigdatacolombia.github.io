@@ -1,15 +1,11 @@
 - title: Inicio
   url: "/"
-  side: left
-
-- title: Eventos
-  url: "/eventos/"
-  side: left
+  side: right
 
 - title: "Nosotros"
   url: "/nosotros/"
   side: right
 
-- title: "Contact"
-  url: "/contact/"
+- title: "Contacto"
+  url: "/contacto/"
   side: right
