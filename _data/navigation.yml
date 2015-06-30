@@ -6,6 +6,10 @@
   url: "/nosotros/"
   side: right
 
+- title: "Patrocinadores"
+  url: "/patrocinadores/"
+  side: right
+
 - title: "Contacto"
   url: "/contacto/"
   side: right
