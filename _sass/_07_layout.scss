@@ -49,6 +49,11 @@ body.video cite { color: #fff; }
     box-shadow: 0 2px 3px 0 rgba(0,0,0,.2);
 }
 
+#nativation .top-bar{
+    max-width: 62.5rem;
+    margin:auto;
+}
+
 
 
 /* Search
@@ -93,7 +98,7 @@ body.video cite { color: #fff; }
 
 @media #{$small-only} {
     #logo img {
-        display: none;
+        margin-top: 10px;
     }
     #masthead {
         height: 200px;
@@ -120,7 +125,7 @@ body.video cite { color: #fff; }
 
 @media #{$medium-only} {
     #logo img {
-        margin-top: 0px;
+        margin-top: 10px;
     }
     #masthead {
         height: 280px;
@@ -143,7 +148,7 @@ body.video cite { color: #fff; }
 
 @media #{$large-only} {
     #logo img {
-        margin-top: 0px;
+        margin-top: 10px;
     }
     #masthead {
         height: 310px;
@@ -166,7 +171,7 @@ body.video cite { color: #fff; }
 
 @media #{$xlarge-up} {
     #logo img {
-        margin-top: 0px;
+        margin-top: 10px;
     }
     #masthead {
         height: 380px;
