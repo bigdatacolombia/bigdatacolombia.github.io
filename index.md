@@ -7,5 +7,4 @@ image:
    thumb: "unsplash_6_bus_thumb.jpg"
 header: 
    image_fullwidth: "colombia.jpg"
-   caption: Comunidad de Big Data Y Data Science en Colombia
 ---
