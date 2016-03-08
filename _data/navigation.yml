@@ -2,14 +2,14 @@
   url: "/"
   side: left
 
-- title: "Nosotros"
-  url: "/nosotros/"
-  side: left
+#- title: "Nosotros"
+#  url: "/nosotros/"
+#  side: left
 
-- title: "Patrocinadores"
-  url: "/patrocinadores/"
-  side: left
+#- title: "Patrocinadores"
+#  url: "/patrocinadores/"
+#  side: left
 
-- title: "Contacto"
-  url: "/contacto/"
-  side: left
+#- title: "Contacto"
+#  url: "/contacto/"
+#  side: left
