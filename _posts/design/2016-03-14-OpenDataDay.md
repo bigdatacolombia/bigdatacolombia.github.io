@@ -63,3 +63,5 @@ En las redes sociales compartimos nuestros comentarios, usando los hashtags sigu
  * [#ODD2016](https://twitter.com/hashtag/odd2016?src=hash)
  * [#OpenData](https://twitter.com/hashtag/opendata?src=hash)
  * [#OpenDataDayCol](https://twitter.com/hashtag/opendatadaycol?src=hash) Este lo usamos para identificar los Tweets de nuestro evento.
+
+Varias de las fotos del evento quedaron publicadas en: [Google]( https://photos.google.com/share/AF1QipOkBxQeZlBBlXq4l5jZWz8h5RM3yAmQ38slhOppMIMZybMcTYZ4DCodAVuNyYmReA?key=eFJXLUkwMFBNX1VTNFpzYWRJMlprSzJ2dWJ0NkNn)
