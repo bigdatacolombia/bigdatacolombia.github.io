@@ -1,10 +1,10 @@
-El pasado 5 de marzo se celebró el OpenData day a nivel mundial en donde varias personas se congregaban para
+El pasado 5 de marzo se celebró el [OpenData day](http://opendataday.org/) a nivel mundial en donde varias personas se congregaban para
 hablar sobre los datos libres, manipular los datos existente o proponer qué nuevos datos ofrecer.
 En Colombia, en varias ciudades se celebró ese día donde diferentes grupos convocaron a la comunidad a celebrar este día.
-En Bogotá, el grupo de BigData Colombia organizó este evento en la Casa de la Cerveza de la zona T con el patrocinio de OpenKnowledge Foundation y TopTal.
+En Bogotá, el grupo de [BigData Colombia](http://www.meetup.com/Big-Data-Science-Bogota/) organizó este evento en la [Casa de la Cerveza](http://www.casadelacerveza.com.co/) de la zona T con el patrocinio de [OpenKnowledge Foundation](https://okfn.org/) y [TopTal](https://www.toptal.com/).
 Este evento fue convocado principalmente por 
 [MeetUp](http://www.meetup.com/Big-Data-Science-Bogota/events/229226327/),
-aunque estaba en la lista de eventos de la página de [OpenDataDay](http://opendataday.org/).
+aunque estaba en la lista de eventos de la página de [OpenDataDay](http://wiki.opendataday.org/2016/City_Events#Colombia).
 
 Hubo más de 40 asistentes, los cuales compartieron unas cervezas y nachos y hablaron de los datos abiertos y todo el mundo que los rodea.
 Entre los asistentes se cuenta con miembros de la 
