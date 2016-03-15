@@ -23,10 +23,10 @@ header:
 
 ~~~
 header:
-    title: header with text
-    image_fullwidth: unsplash_brooklyn-bridge_header.jpg
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
+    title: Celebración OpenData Day en Bogotá
+#    image_fullwidth: unsplash_brooklyn-bridge_header.jpg
+#    caption: This is a caption for the header image with link
+#    caption_url: https://unsplash.com/
 ~~~
 
 El pasado 5 de marzo se celebró el [OpenData day](http://opendataday.org/) a nivel mundial en donde varias personas se congregaban para
