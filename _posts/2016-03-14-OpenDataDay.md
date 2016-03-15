@@ -1,3 +1,34 @@
+---
+layout: page
+title: "Header With Text"
+subheadline: "Celebración OpenData Day"
+teaser: "Celebración del día mundial de datos abierto en Bogotá."
+categories:
+    - design
+tags:
+    - design
+    - background color
+    - header
+header:
+    title: header with text
+    background-color: "#EFC94C;"
+#    pattern: pattern_concrete.jpg
+#    image_fullwidth: unsplash_brooklyn-bridge_header.jpg
+    caption: This is a caption for the header image with link
+#    caption_url: https://unsplash.com/
+---
+<!--more-->
+
+## Front Matter Code
+
+~~~
+header:
+    title: header with text
+    image_fullwidth: unsplash_brooklyn-bridge_header.jpg
+    caption: This is a caption for the header image with link
+    caption_url: https://unsplash.com/
+~~~
+
 El pasado 5 de marzo se celebró el [OpenData day](http://opendataday.org/) a nivel mundial en donde varias personas se congregaban para
 hablar sobre los datos libres, manipular los datos existente o proponer qué nuevos datos ofrecer.
 En Colombia, en varias ciudades se celebró ese día donde diferentes grupos convocaron a la comunidad a celebrar este día.
